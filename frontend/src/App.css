@@ -1,0 +1,8 @@
+.products-listing {
+  /* fixed flex boxes */
+  display: flex;
+  width: 90%;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 1rem auto;
+}
